@@ -1,0 +1,42 @@
+.cont-about{
+    margin-top: 5rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.foto-about{
+    height: 15rem;
+    margin: 2rem;
+    border-radius: 2rem;
+}
+.second-skills{
+    text-align: center;
+}
+.second-skills h2{
+    color: #af8ae2;
+}
+.second-skills li{
+    list-style-type: none;
+}
+.cont-perfil{
+    display: flex;
+    flex-direction: column;
+}
+.cont-perfil h1{
+    color: #af8ae2;
+    margin-top: 2rem;
+}
+.cont-perfil p{
+    margin-top: 1rem;
+}
+
+.social-media{
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.social-media a{
+    color: #af8ae2;
+    font-size: 2rem;
+}
