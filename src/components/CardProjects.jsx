@@ -16,8 +16,8 @@ const CardProjects = () => {
             </Card.Text>
           </Card.Body>
           <Card.Body>
-            <Card.Link href="#">Repositorio Github</Card.Link>
-            <Card.Link href="#">Funcionamiento</Card.Link>
+            <Card.Link href="https://github.com/sarapalac10/MonokuApp">Repositorio Github</Card.Link>
+            <Card.Link href="https://mood-master.vercel.app/">Funcionamiento</Card.Link>
           </Card.Body>
         </Card>
 
