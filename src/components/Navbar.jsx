@@ -1,5 +1,4 @@
 import React, {useState} from 'react';
-import Nav from 'react-bootstrap/Nav';
 import '../style/NavbarStyle.css'
 import { BiDotsVertical } from 'react-icons/bi';
 
@@ -23,9 +22,9 @@ const Navbar = () => {
                     <li>
                         <a href="/about">Sobre mí</a>
                     </li>
-                    <li>
+                    {/* <li>
                         <a href="/work">Trabajo</a>
-                    </li>
+                    </li> */}
                     <li>
                         <a href="/projects">Proyectos</a>
                     </li>

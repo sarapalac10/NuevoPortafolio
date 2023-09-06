@@ -7,7 +7,7 @@ const HardSkills = () => {
         <h2>Habilidades Técnicas</h2>
         <div className='contenedor-skills'>
             <figure class="snip0015">
-            <img src="https://logowik.com/content/uploads/images/react7473.logowik.com.webp" alt="The React Logo - React Js Logo Svg@nicepng.com" />                <figcaption>
+            <img src="https://res.cloudinary.com/dez9y1otk/image/upload/v1693950372/Portfolio/flat_750x_075_f-pad_750x1000_f8f8f8.u3_vmnulp.jpg" alt="The React Logo - React Js Logo Svg@nicepng.com" />                <figcaption>
                     <h2>React Js</h2>
                     {/* <p>That everyone has his price, or that the price is always so low.</p> */}
                 </figcaption>

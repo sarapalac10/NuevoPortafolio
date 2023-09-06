@@ -1,0 +1,21 @@
+.cont-previewProject{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-bottom: 2rem;
+}
+.cont-previewProject a{
+    text-decoration: none;
+    color: #af8ae2;
+}
+
+h2{
+    text-align: center;
+}
+
+@media screen and (max-width: 768px){
+    .cont-previewProject{
+        flex-direction: column;
+        align-items: center;
+    }
+}

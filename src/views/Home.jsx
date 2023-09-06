@@ -5,6 +5,7 @@ import '../style/HomeStyle.css'
 import Footer from '../components/Footer'
 import HardSkills from '../components/HardSkills'
 import ResumenProfile from '../components/ResumenProfile'
+import PreviewProjects from '../components/PreviewProjects'
 
 const Home = () => {
   return (
@@ -13,6 +14,7 @@ const Home = () => {
         <Intro />
         <HardSkills />
         <ResumenProfile />
+        <PreviewProjects />
         <Footer />
     </div>
   )

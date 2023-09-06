@@ -21,6 +21,7 @@
 .cont-perfil{
     display: flex;
     flex-direction: column;
+    margin-bottom: 1rem;
 }
 .cont-perfil h1{
     color: #af8ae2;
@@ -28,6 +29,9 @@
 }
 .cont-perfil p{
     margin-top: 1rem;
+}
+.cont-perfil a{
+    color: #af8ae2;
 }
 
 .social-media{

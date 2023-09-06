@@ -12,14 +12,6 @@
     justify-content: center;
 }
 
-@media screen and (max-width: 768px) {
-    .contenedor-skills{
-        display: flex;
-        flex-direction: column;
-        align-items: center
-    }
-}
-
 figure.snip0015 {
   font-family: 'Raleway', Arial, sans-serif;
   color: #fff;
@@ -32,10 +24,10 @@ figure.snip0015 {
   width: 100%;
   background: #000000;
 }
-/* figure.snip0015 * {
+figure.snip0015 * {
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
-} */
+}
 figure.snip0015 img {
   opacity: 1;
   width: 100%;
@@ -105,4 +97,17 @@ figure.snip0015:hover figcaption::before {
   opacity: 1;
   -webkit-transition-delay: 0s;
   transition-delay: 0s;
+}
+
+@media screen and (max-width: 768px) {
+  .contenedor-skills{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 0.25rem;
+    grid-row-gap: 0.5em;
+  }
+  figure.snip0015 {
+    margin: 0px;
+    height: 70%;
+  }
 }
