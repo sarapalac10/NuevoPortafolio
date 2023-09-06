@@ -21,7 +21,7 @@ const About = () => {
             <p>Durante mi año de trabajo en MercadoLibre, tuve la oportunidad de trabajar en un entorno altamente dinámico y colaborativo. Aquí, adquirí una valiosa experiencia en el desarrollo web, centrándome en la creación de aplicaciones con React JS. Mi dedicación y habilidad en esta tecnología me permitieron contribuir de manera significativa a proyectos clave, mejorando la experiencia del usuario y colaborando en proyectos que impactan en miles de usuarios.</p>
             <p>Mi enfoque en el aprendizaje continuo es una parte fundamental de mi carrera, para mantenerme actualizada en las últimas tendencias y tecnologías de desarrollo web. Creo firmemente que la educación constante es esencial para sobresalir en un campo tan dinámico como la programación.
             </p>
-            <h4>Puedes consultar mi cv actualizado aquí <a href='https://drive.google.com/file/d/17FtjVrbkR2-5yDxhmfiJsu80lg-xyrKz/view?usp=drive_link'><FiBookOpen /></a>
+            <h4>Puedes consultar mi cv actualizado aquí <a href='https://drive.google.com/file/d/1jvIPCp5bBio0SBcPF8Gp0dTUlj0-EWhc/view?usp=sharing'><FiBookOpen /></a>
             </h4>
         </div>
       </div>
