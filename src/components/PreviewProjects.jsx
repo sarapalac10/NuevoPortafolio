@@ -1,6 +1,6 @@
 import React from 'react';
 import Card from 'react-bootstrap/Card';
-import '../style/FullProjectStyles.css'
+import '../style/ProjectStyles.css'
 
 const PreviewProjects = () => {
   return (

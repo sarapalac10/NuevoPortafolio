@@ -1,6 +1,7 @@
 import React from 'react'
 import Card from 'react-bootstrap/Card';
 import { BiLogoReact, BiLogoJavascript, BiSolidFileCss, BiLogoHtml5 } from "react-icons/bi";
+import '../style/FullProjectStyles.css'
 
 const CardProjects = () => {
     return (
