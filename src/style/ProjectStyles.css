@@ -8,6 +8,9 @@
     text-decoration: none;
     color: #af8ae2;
 }
+.card:hover{
+    background-color: #af8ae2;
+}
 
 h2{
     text-align: center;
