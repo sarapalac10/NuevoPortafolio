@@ -44,3 +44,14 @@
     color: #af8ae2;
     font-size: 2rem;
 }
+
+@media screen and (max-width: 768px) {
+    .cont-about{
+        margin-top: 5rem;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-right: 1rem;
+        margin-left: 1rem;
+    }
+}
